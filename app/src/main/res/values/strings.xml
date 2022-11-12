@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ProjectLearnAndroid</string>
+    <string name="email_id">Email ID</string>
+    <string name="hint_email">Input Email Id</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password</string>
 </resources>
